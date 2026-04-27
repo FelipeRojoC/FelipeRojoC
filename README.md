@@ -16,23 +16,24 @@ const FelipeRojoCortes = {
     rol: "Estudiante de Ingeniería en Computación e Informática",
     enfoque: [
         "Desarrollo Web",
-        "Full Stack Junior",
-        "Soluciones Escalables",
-        "Metodologías Ágiles"
+        "Digitalización Industrial",
+        "Soluciones Paperless",
+        "Innovación y Sustentabilidad"
     ],
     habilidadesDestacadas: [
+        "Automatización de procesos",
         "Resolución creativa de problemas",
-        "Aprendizaje rápido",
-        "Trabajo en equipo",
-        "Comunicación efectiva"
+        "Gestión y liderazgo de proyectos",
+        "Trabajo en equipo"
     ],
     descripcion: 
-        "Apasionado por la tecnología y el desarrollo de software. Me motiva crear soluciones " +
-        "que aporten valor real y participar en proyectos donde pueda aprender, innovar y " +
-        "crecer profesionalmente. Actualmente busco mi práctica profesional para aplicar mis " +
-        "conocimientos y seguir desarrollándome como desarrollador.",
-    buscando: "Práctica profesional de verano (360 horas)",
-    disponibilidad: "Presencial, híbrida o remota",
+        "Apasionado por la tecnología y el desarrollo de software que aporta valor real. " +
+        "Me especializo en la digitalización industrial y la optimización de procesos " +
+        "mediante la integración de sistemas e interfaces a medida. Constantemente " +
+        "busco participar en proyectos donde pueda innovar, aprender y aplicar " +
+        "soluciones tecnológicas escalables.",
+    actualmente: "Desarrollando la DBS APP (Digitalización) y cursando el programa Soluciones Digitales (HEUMA).",
+    logroDestacado: "1er Lugar Categoría Innovación - Rally Latinoamericano de Innovación 2025 (ECO-CATCHER)"
 };
 ```
 
